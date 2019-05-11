@@ -32,10 +32,10 @@ PRODUCT_PACKAGES += \
     
 # Boot control HAL
 PRODUCT_PACKAGES += \
-    bootctrl.msm8953
+    bootctrl.msm8937
 
 PRODUCT_STATIC_BOOT_CONTROL_HAL := \
-    bootctrl.msm8953 \
+    bootctrl.msm8937 \
     libgptutils \
     libz \
     
